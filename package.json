@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/deheznicolas/node-cli#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "boxen": "^4.1.0",
     "chalk": "^3.0.0",
     "country-list": "^2.2.0",
